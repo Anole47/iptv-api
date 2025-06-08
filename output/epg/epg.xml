@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250608095312 +0800">
+<tv date="20250608102541 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -29181,7 +29181,4 @@
 	<programme channel="五星体育" start="20250608233900 +0800" stop="20250608235959 +0800">
 		<title lang="zh">明尼苏达维京人底特律雄狮</title>
 	</programme>
-	<channel id="IPTV经典电影">
-		<display-name lang="zh">IPTV经典电影</display-name>
-	</channel>
 </tv>
